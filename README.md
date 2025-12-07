@@ -16,7 +16,7 @@ This template provides a **minimal** structure for rapidly deploying high-perfor
 Ensure these tools are installed to begin building your serverless application:
 
 - **Go** (version 1.20+)
-- **Node.js** (and **npm/pnpm**)
+- **Node.js** (and **npm**)
 - **AWS CLI** (with valid credentials configured)
 - **AWS CDK v2**
 
